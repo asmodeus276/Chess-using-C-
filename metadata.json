@@ -1,0 +1,6 @@
+{
+  "name": "ChessCraft C: Data Structures & Algorithms Chess Project",
+  "description": "Professional C language chess engine project showcasing advanced data structures (2D arrays, stacks, hash tables, piece lists) and minimax alpha-beta pruning for teacher presentation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
